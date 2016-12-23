@@ -1,7 +1,8 @@
 package cop5618;
 
 public class Timer {
-
+	
+	// new commit in child
 	/** array of raw times from System.nanoTime(); */
 	long[] rawNanoTimes;
 
